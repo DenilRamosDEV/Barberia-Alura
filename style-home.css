@@ -1,0 +1,44 @@
+
+.title-principal{
+    margin-left: 30px;
+}
+.principal {
+    background: #ccc;
+    padding: 20px;
+}
+
+#banner {
+    width: 100%;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+.diferenciales {
+    background: #fff;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.items {
+    font-style: italic;
+}
+
+.imgDiferencial {
+    width: 50%;
+}
